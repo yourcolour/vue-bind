@@ -1,0 +1,25 @@
+// * {
+//     padding: 0;
+//     border: 0;
+//     margin: 0;
+// }
+.wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: baseline;
+}
+
+.left {
+    background: red;
+    font-size: 2em;
+}
+
+.center {
+    background-color: green;
+    width: 100%;
+}
+
+.right {
+    background-color: blue;
+}
